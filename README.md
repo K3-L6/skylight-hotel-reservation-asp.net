@@ -2,7 +2,7 @@
 
 ##Introduction
 
-## Screenshots
+##Screenshots
 
 
 ## Prerequisites
@@ -11,8 +11,8 @@
 * MS SQL Manager
 
 ## Built With
-* [Visual Studio C# Windows Form](https://www.visualstudio.com/downloads/) - programming language used
-* [ASP.NET Web Forms](https://github.com/laravel/laravel) - web framework
+* [Visual Studio C# Windows Form](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) - programming language used
+* [ASP.NET Web Forms](https://www.asp.net/web-forms) - web framework
 * [Bootstrap 4](https://github.com/twbs/bootstrap/tree/v4-dev) - css framework
 
 ## Authors
@@ -23,4 +23,4 @@
 * **Martin Aisle Serana** - Documentation and analytics
 
 ## Acknowledgments
-*Skylight Hotel
+* Skylight Hotel
