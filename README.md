@@ -1,8 +1,8 @@
 # Skylight Hotel Reservation - Thesis
 
-##Introduction
+## Introduction
 
-##Screenshots
+## Screenshots
 
 
 ## Prerequisites
