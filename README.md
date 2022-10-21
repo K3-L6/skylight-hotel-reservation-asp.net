@@ -1,5 +1,4 @@
-# Skylight Hotel Reservation - Thesis
-
+# Skylight Hotel Reservation
 ## Introduction
 
 ## Screenshots
